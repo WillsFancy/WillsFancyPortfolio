@@ -107,7 +107,7 @@ function scrolltoTopfunction(){
 // document.addEventListener("contextmenu", function (e){
 //   e.preventDefault();
 // }, false);
-// https://github.com/vinodjangid07
+// https://github.com/willsfancy
 document.addEventListener("contextmenu", function(e){
   if (e.target.nodeName === "IMG") {
       e.preventDefault();
